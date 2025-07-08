@@ -10,6 +10,7 @@ KNOWN_ORDER = [
     "UniversalDeployer"
 ]
 
+
 def main():
     # Required compiler version argument
     cmp_version = sys.argv[1]
